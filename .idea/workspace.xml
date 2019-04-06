@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bb62338-d688-428f-90f6-7f73e3533dc9" name="Default" comment="">
+    <list default="true" id="8bb62338-d688-428f-90f6-7f73e3533dc9" name="Default" comment="adding header and footer at all pages and finishing the index">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/_css/estilo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_javascript/funcoes.js" beforeDir="false" afterPath="$PROJECT_DIR$/_javascript/funcoes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fale-conosco.html" beforeDir="false" afterPath="$PROJECT_DIR$/fale-conosco.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fotos.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multimidia.html" beforeDir="false" afterPath="$PROJECT_DIR$/multimidia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specs.html" beforeDir="false" afterPath="$PROJECT_DIR$/specs.html" afterDir="false" />
     </list>
     <ignored path="projeto-glass-html5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multimidia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state relative-caret-position="51">
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -168,7 +161,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554575565732" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554575616373" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -200,18 +193,26 @@
       <updated>1398167874646</updated>
       <workItem from="1554478981666" duration="16536000" />
       <workItem from="1554508126091" duration="6259000" />
-      <workItem from="1554560508320" duration="8080000" />
+      <workItem from="1554560508320" duration="8436000" />
     </task>
+    <task id="LOCAL-00001" summary="adding header and footer at all pages and finishing the index">
+      <created>1554575601541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554575601541</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30875000" />
+    <option name="totallyTimeSpent" value="31231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2616893" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2616893" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -219,6 +220,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="6" />
       <window_info id="Learn" order="7" weight="0.3295626" />
+      <window_info anchor="bottom" id="Messages" weight="0.32977098" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32977098" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -226,7 +228,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32977098" />
       <window_info anchor="bottom" id="Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32977098" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32824427" />
@@ -250,6 +252,10 @@
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding header and footer at all pages and finishing the index" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding header and footer at all pages and finishing the index" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/maldicao.html" />
@@ -343,8 +349,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/multimidia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        <state relative-caret-position="51">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
