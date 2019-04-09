@@ -4,7 +4,6 @@
     font-family: 'FonteLogo';
     src: url("../_fonts/bubblegum-sans-regular.otf");
 }
-/* area total e parcial do site*/
 body{
     background-color: #dddddd;
     color: rgba(0,0,0,1);
@@ -29,7 +28,6 @@ a{
 a:hover{
     text-decoration: underline;
 }
-/*area de cabeçalho*/
 header#cabecalho{
     border-bottom: 1px #606060 solid;
     height: 150px;
@@ -65,7 +63,7 @@ nav#menu{
 nav#menu ul{
     text-transform: uppercase;
     position: absolute;
-    top: 4%;
+    top: 2%;
     left: 40%;
 }
 nav#menu li{
@@ -96,15 +94,7 @@ nav#menu a:hover {
     color: #ffffff;
     text-decoration: underline;
 }
-/* area do corpo do site*/
-section#corpo{
-    position: relative;
-    display: block;
-    width: 700px;
-    float: left;
-    border-right: 1px #606060 solid;
-    padding-right: 20px;
-}
+
 article#artigo-principal h1{
     font-family: 'FonteLogo', sans-serif;
     font-size: 25pt;
@@ -127,86 +117,6 @@ article#artigo-principal h4{
     color: black;
     text-align: right;
     font-family: 'Titillium Web', sans-serif;
-}
-/*primeira foto do artigo com efeito*/
-figure.foto-legenda{
-    border: 8px solid white;
-    box-shadow: 1px 1px 4px black;
-    position: relative;
-}
-figure.foto-legenda img{
-    width: 100%;
-    height: 100%;
-}
-figure.foto-legenda figcaption{
-    opacity: 0;
-    position: absolute;
-    top: 0px;
-    bottom: 0px;
-    background-color: rgba(0,0,0,0.4);
-    color: white;
-    width: 100%;
-    height: 98%;
-    padding: 10px;
-    box-sizing: border-box;
-    transition: opacity 1s;
-}
-figure.foto-legenda:hover figcaption{
-    opacity: 1;
-}
-table#tabela-spec{
-    border: 1px solid #606060;
-    border-spacing: 0px;
-    margin-left: auto;
-    margin-right: auto;
-}
-table#tabela-spec caption{
-    color: #888888;
-    font-weight: bold;
-    font-size: 12pt;
-}
-table#tabela-spec caption span{
-    display: block;
-    float: right;
-    font-size: 8pt;
-    color: #000000;
-    margin-top: 10px;
-}
-table#tabela-spec td{
-    border: 1px solid #606060;
-    padding: 10px;
-}
-table#tabela-spec td.ce{
-    color:#ffffff;
-    background-color: #606060;
-    vertical-align: top;
-    font-weight: bold;
-}
-table#tabela-spec td.cd{
-    background-color: #cecece;
-}
-
-aside#lateral{
-    background-color: rgba(221, 221, 221, 0.8);
-
-    display: block;
-    width: 350px;
-    float: right;
-    margin-left: auto;
-    margin-right: 30px;
-    margin-top: 20px;
-    padding: 10px;
-}
-aside#lateral h1{
-    font-family: 'FonteLogo', sans-serif;
-    font-size: 20pt;
-    color: #606060;
-}
-aside#lateral h2{
-    background-color: #606060;
-    color: white;
-    font-size: 15pt;
-    padding: 5px;
 }
 
 footer#rodape{
